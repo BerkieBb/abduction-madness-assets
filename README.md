@@ -13,3 +13,5 @@ Some assets I have for a game that I have to make for school.
 # Link
 
 [Link to game](http://game.berkieb.com/) (Currently HTTP because my SSL only applies to my main domain and not subdomains)
+
+If you have suggestions or anything, I'd love to hear it.
